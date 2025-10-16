@@ -1,5 +1,6 @@
 #include <stdio.h>
 int main(){
-    printf("Sajjad");
+    printf("Ali");
+    scanf 
 return 0;
 }
